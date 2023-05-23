@@ -5,7 +5,7 @@
 // 4. 이 작업을 head 노드를 순회하면서, head 노드가 끝날때까지 반복한다.
 
 // 시간 복잡도: O(N)
-// 공간 복잡도: 
+// 공간 복잡도: O(1)
 
 /**
  * Definition for singly-linked list.
