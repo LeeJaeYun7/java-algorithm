@@ -1,3 +1,8 @@
+// 문제 접근 방법
+// 1. ArrayList<Integer> arr을 만들고, preOrder 메소드를 만들어서, 매개변수로 전달했다.
+// -> 매개변수로 전달하고, preOrder 메소드로 순회하면서 값을 넣어줬다. 
+
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
